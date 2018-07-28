@@ -1,5 +1,6 @@
 # Coursera_Advanced_Machine_Learning_Specialization
 Repository for Coursera Specialization Advanced Machine Learning ( National Research University Higher School of Economics )
+here is the [link](https://www.coursera.org/specializations/aml) to the specialization
 
 ## To-Do
 1. Introduction to Deep Learning
